@@ -19,7 +19,7 @@
   <tr border="none">
     <td width="25%" align="center">
       <p align="center">
-        <a href="[TU_ENLACE_AQUI](https://github.com/juanma877/Equipo29)" title="Ir a la fuente">
+        <a href="(https://github.com/juanma877/Equipo29)" title="Ir a la fuente">
           <img align="center" width=100% src="TU_IMAGEN_AQUI" alt="VIDEO" />
         </a>
       </p>
