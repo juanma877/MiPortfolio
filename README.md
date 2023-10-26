@@ -20,6 +20,6 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="[https://youtu.be/rISmdhlhOPM](https://github.com/juanma877/Equipo29)" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
+     <a href="(https://github.com/juanma877/Equipo29)" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="gif" /></a>
       </p>
