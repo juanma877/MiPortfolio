@@ -20,7 +20,7 @@
     <td width="25%" align="center">
       <p align="center">
         <a href="(https://github.com/juanma877/Equipo29)" title="Ir a la fuente">
-          <img align="center" width=100% src="TU_IMAGEN_AQUI" alt="VIDEO" />
+          <img align="center" width=100% src="[![Proyecto1.gif](https://i.postimg.cc/7P0ZzKG3/Proyecto1.gif)](https://postimg.cc/Dmfhkdc0)" alt="VIDEO" />
         </a>
       </p>
     </td>
