@@ -22,16 +22,6 @@
       <p align="center">
         <a href="https://github.com/juanma877/Equipo29" title="Ir a la fuente">
           <img align="center" width="200px" src="https://i.postimg.cc/J7XdW2tB/1.png" alt="VIDEO" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<table align="left">
-  <tr border="none">
-    <td width="25%" align="center">
-      <p align="center">
-        <a href="https://github.com/juanma877/Equipo29" title="Ir a GitHub">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         </a>
       </p>
