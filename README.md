@@ -29,7 +29,7 @@
   <tr border="none">
     <td width="25%" align="center">
       <p align="center">
-        <a href="https://tu-enlace-a-github" title="Ir a GitHub">
+        <a href="https://github.com/juanma877/Equipo29" title="Ir a GitHub">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         </a>
       </p>
